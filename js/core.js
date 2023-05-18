@@ -3,11 +3,11 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = 'DOHAR CRAFT';
+    let title = 'DoharCraft';
 
     //Server Ip (counter)
-    var serverIp = 'soon';
-    var serverIpPort = 00000;
+    var serverIp = 'play.nethergames.org';
+    var serverIpPort = 12356;
 
     //Banner image (url) 
     var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
