@@ -3,11 +3,11 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = 'BattleCraft';
+    let title = 'DOHAR CRAFT';
 
     //Server Ip (counter)
-    var serverIp = 'play.foxcraft.net';
-    var serverIpPort = 25565;
+    var serverIp = 'soon';
+    var serverIpPort = 00000;
 
     //Banner image (url) 
     var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
@@ -25,7 +25,7 @@ window.onload = function () {
     //--------------------------------------------
 
     //Type Server (FullPVP, MiniGame, Survival, and others...)
-    var typeServer = 'Full PVP';
+    var typeServer = '90% Pure Vanilla';
 
     //--------------- Home Gallery ---------------
     // Image automatically changes according to the name :)
