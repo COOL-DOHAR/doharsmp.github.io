@@ -14,8 +14,8 @@ html, body {
 }
 
 @font-face {
-    font-family: VampireWars;
-    src: url(../font/Vampire\ Wars.ttf);
+    font-family: level-up;
+    src: url(../font/level-up.otf);
 }
 
 .bannerTop {
